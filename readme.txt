@@ -1,3 +1,9 @@
+/////////////////////////////////////////////////
+
+Build Machine Learning Models to Predict Glaucoma
+
+///////////////////////////////////////////////
+
 using angle closure glaucoma data, 
 The response of interest is ANGLE.CLOSURE and the candidate predictors consist of the remaining data columns
 
